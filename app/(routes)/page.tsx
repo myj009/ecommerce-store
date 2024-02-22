@@ -8,7 +8,7 @@ import React from "react";
 export const revalidate = 0;
 
 const HomePage = async () => {
-  const billboard = await getBillboards("e0a21532-33c7-4057-8e51-af68f0b3b99f");
+  const billboard = await getBillboards("914d3b93-d151-4280-a9aa-29c8af13fdce");
   const products = await getProducts({ isFeatured: true });
 
   return (
