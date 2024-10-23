@@ -4,6 +4,12 @@ https://ecommerce-store-one-kappa.vercel.app/
 
 # Storefront for E-commerce Platform
 
+
+
+https://github.com/user-attachments/assets/202b22c0-b306-49dc-8d3f-d5e02bb01043
+
+
+
 [Sample Images](https://github.com/myj009/ecommerce-store/tree/main/sample_images)
 
 This repository hosts the storefront for our e-commerce platform, designed to integrate seamlessly with the admin dashboard available at [ecommerce-admin](https://github.com/myj009/ecommerce-admin). Our storefront is user-friendly, customizable, and integrated with Stripe for secure checkouts.
